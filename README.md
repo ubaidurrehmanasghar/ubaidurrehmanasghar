@@ -12,9 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
-# 👋 Hello, I'm <span style="color: #52FFEE;">***UBAID UR REHMAN ASGHAR***</span>!
-<span style="color: #3498db;">This line is blue</span>
-<span style="color: #e74c3c;">This line is red</span>
+# 👋 Hello, I'm ***UBAID UR REHMAN ASGHAR***!
+
 ### 🚀 About Me
 - 🌐 I'm an *Electronics Engineer*
 - 💻 I enjoy working on **Web Development**, **Embedded Systems**, and **IoT Projects**
