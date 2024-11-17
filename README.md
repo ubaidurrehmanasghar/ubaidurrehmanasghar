@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
-# 👋 Hello, I'm ***UBAID UR REHMAN ASGHAR***!
+# 👋 Hello, I'm <span style="color: #52FFEE;">***UBAID UR REHMAN ASGHAR***</span>!
 
 ### 🚀 About Me
 - 🌐 I'm an *Electronics Engineer*
