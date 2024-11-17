@@ -39,8 +39,8 @@ Here are some ideas to get you started:
 ### 📈 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ubaidurrehmanasghar&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ubaidurrehmanasghar&layout=compact&theme=tokyonight)
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=yourusername&theme=react-dark)
-![Visitor Count](https://komarev.com/ghpvc/?username=yourusername&style=flat-square)
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=ubaidurrehmanasghar&theme=react-dark)
+![Visitor Count](https://komarev.com/ghpvc/?username=ubaidurrehmanasghar&style=flat-square)
 ### 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ubaidurrehmanasghar)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/obbii28)
