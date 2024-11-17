@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks)
-![Arduino](https://icons8.com/icon/13444/arduino)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino)
 ![ESP32](https://img.shields.io/badge/ESP32-00878F?style=for-the-badge&logo=espressif)
 
 ### 🌟 Projects
