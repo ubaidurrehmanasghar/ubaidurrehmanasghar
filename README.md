@@ -12,12 +12,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
-# 👋 Hello, I'm ***UBAID UR REHMAN ASGHAR***!
+# 👋 Hello, ***UBAID UR REHMAN ASGHAR*** here!
 
 ### 🚀 About Me
 - 🌐 I'm an *Electronics Engineer*
 - 💻 I enjoy working on **Web Development**, **Embedded Systems**, and **IoT Projects**
-- 🎓 Currently learning: **Wireless Communications** and **PCB Design**
+- 🎓 Graduated In: **Wireless Communications** and **PCB Design**
+- 🌱 I’m currently learning **Data Analytics** , **Python** and **Web Development**
 - 📫 How to reach me: [Email](mailto:ubaid.ur.asghar@gmail.com)
 
 ### 🔧 Technologies & Tools
